@@ -1,0 +1,1002 @@
+{
+  "type": "FeatureCollection",
+  "name": "lifts",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0603",
+        "station": "A06",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.02614221841807,
+          52.171959125161131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0701",
+        "station": "A07",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.02414898700593,
+          52.181359483127856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0702",
+        "station": "A07",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.02262351694516,
+          52.182578515382616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0802",
+        "station": "A08",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd-wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.017531862605694,
+          52.188960954068321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0801",
+        "station": "A08",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd-zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.016591107824386,
+          52.18927682815805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0901",
+        "station": "A09",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd-wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.012923630523275,
+          52.198129986141041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0902",
+        "station": "A09",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd-zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.012344237311744,
+          52.198058552063642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1002",
+        "station": "A10",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd-wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.008334470540792,
+          52.208136789339306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1001",
+        "station": "A10",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd-zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.007654912266027,
+          52.208050882409268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1101",
+        "station": "A11",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd-zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.014472684130144,
+          52.217568614854891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1102",
+        "station": "A11",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd-wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.015719647677425,
+          52.217813230959933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1303",
+        "station": "A13",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": 2,
+        "name": "płd-wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.010628954343723,
+          52.230667698655154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1302",
+        "station": "A13",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": 2,
+        "name": "płd-zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.010349587891348,
+          52.230589234929447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1402",
+        "station": "A14",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd-zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.007996368034604,
+          52.234914651420453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1403",
+        "station": "A14",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płn-wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.008819919184443,
+          52.235412660143695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A150",
+        "station": "A15",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.001761073725962,
+          52.244110496972098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A150",
+        "station": "A15",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.0012875553602,
+          52.24471040369977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A150",
+        "station": "A15",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.000211774003894,
+          52.245157322259487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C1202",
+        "station": "C12",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.016738001391435,
+          52.236724566425565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C1201",
+        "station": "C12",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.016121554671027,
+          52.236606969530662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C130",
+        "station": "C13",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.030941370252002,
+          52.2396116061025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C130",
+        "station": "C13",
+        "levela": 0,
+        "levelb": null,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.032182992141973,
+          52.240071270163661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C140",
+        "station": "C14",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.043535779898079,
+          52.247238390589693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C140",
+        "station": "C14",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.04343665734514,
+          52.246330390705118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C140",
+        "station": "C14",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.042742799474556,
+          52.246296544591836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C140",
+        "station": "C14",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.042843828230442,
+          52.247509153025284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C100",
+        "station": "C10",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.998921814805644,
+          52.233526277745625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C100",
+        "station": "C10",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99912238867481,
+          52.232955427594305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C100",
+        "station": "C10",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.998951966433033,
+          52.233256509812612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C100",
+        "station": "C10",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.998556062455982,
+          52.232577265434884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C100",
+        "station": "C10",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99820604139018,
+          52.233630651803637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C100",
+        "station": "C10",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.99745683899652,
+          52.23324647377158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C100",
+        "station": "C10",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.997535056959752,
+          52.233048253050086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C100",
+        "station": "C10",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": null
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.997961253091106,
+          52.232618206926141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1111",
+        "station": "C11",
+        "levela": 1,
+        "levelb": 2,
+        "levelc": null,
+        "name": "płd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.015163620816399,
+          52.21783271199164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1011",
+        "station": "A10",
+        "levela": 1,
+        "levelb": 2,
+        "levelc": null,
+        "name": "płd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.007990926262881,
+          52.208094602567257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0911",
+        "station": "A09",
+        "levela": 1,
+        "levelb": 2,
+        "levelc": null,
+        "name": "płd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.012621343013592,
+          52.1981202594
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0811",
+        "station": "A08",
+        "levela": 1,
+        "levelb": 2,
+        "levelc": null,
+        "name": "płd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.016963295700332,
+          52.189286758642218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0711",
+        "station": "A07",
+        "levela": 1,
+        "levelb": 2,
+        "levelc": null,
+        "name": "płn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.022473022218801,
+          52.182346651765812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0712",
+        "station": "A07",
+        "levela": 1,
+        "levelb": 2,
+        "levelc": null,
+        "name": "płd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.023614864911444,
+          52.181362866095604
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0601",
+        "station": "A06",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "zjazd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.025889135084594,
+          52.171826569591111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0602",
+        "station": "A06",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "zjazd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.027875007956755,
+          52.171922870685485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A0611",
+        "station": "A06",
+        "levela": 1,
+        "levelb": 2,
+        "levelc": null,
+        "name": "płd"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.026357064411641,
+          52.171965490495886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1301",
+        "station": "A13",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.009882418974161,
+          52.231767506205138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1311",
+        "station": "A13",
+        "levela": 1,
+        "levelb": 2,
+        "levelc": null,
+        "name": "płn-zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.009686762236758,
+          52.231499158884205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1312",
+        "station": "A13",
+        "levela": 1,
+        "levelb": 2,
+        "levelc": null,
+        "name": "płn-wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.010057368412088,
+          52.231575857322163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1304",
+        "station": "A13",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": 2,
+        "name": "płd-zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.010476673448597,
+          52.230463459914354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1305",
+        "station": "A13",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": 2,
+        "name": "płd-wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.010716121236332,
+          52.230531805627145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1401",
+        "station": "A14",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płn-zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.007792378507748,
+          52.235357031756806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1404",
+        "station": "A14",
+        "levela": 0,
+        "levelb": 1,
+        "levelc": null,
+        "name": "płd-wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.009133211009626,
+          52.23512156573014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1411",
+        "station": "A14",
+        "levela": 1,
+        "levelb": 2,
+        "levelc": 3,
+        "name": "zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.007947728179811,
+          52.235116893760207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1412",
+        "station": "A14",
+        "levela": 1,
+        "levelb": 3,
+        "levelc": null,
+        "name": "wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.008725051052149,
+          52.235263688992418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "A1413",
+        "station": "A14",
+        "levela": 1,
+        "levelb": 3,
+        "levelc": null,
+        "name": "wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.009220669015825,
+          52.235361135906722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C1211",
+        "station": "C12",
+        "levela": 1,
+        "levelb": 3,
+        "levelc": null,
+        "name": "zach"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.016114610562113,
+          52.236684232341609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": "C1212",
+        "station": "C12",
+        "levela": 1,
+        "levelb": 3,
+        "levelc": null,
+        "name": "wsch"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.017185959666129,
+          52.236893123174674
+        ]
+      }
+    }
+  ]
+}

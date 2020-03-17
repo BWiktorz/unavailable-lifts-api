@@ -1,0 +1,88 @@
+{
+  "stations": [
+    {
+      "name": "KABATY",
+      "id": "A01"
+    },
+    {
+      "name": "NATOLIN",
+      "id": "A02"
+    },
+    {
+      "name": "IMIELIN",
+      "id": "A03"
+    },
+    {
+      "name": "STOKŁOSY",
+      "id": "A04"
+    },
+    {
+      "name": "URSYNÓW",
+      "id": "A05"
+    },
+    {
+      "name": "SŁUŻEW",
+      "id": "A06"
+    },
+    {
+      "name": "WILANOWSKA",
+      "id": "A07"
+    },
+    {
+      "name": "WIERZBNO",
+      "id": "A08"
+    },
+    {
+      "name": "RACŁAWICKA",
+      "id": "A09"
+    },
+    {
+      "name": "POLE MOKOTOWSKIE",
+      "id": "A10"
+    },
+    {
+      "name": "POLITECHNIKA",
+      "id": "A11"
+    },
+    {
+      "name": "CENTRUM",
+      "id": "A13"
+    },
+    {
+      "name": "ŚWIĘTOKRZYSKA",
+      "id": "A14"
+    },
+    {
+      "name": "RATUSZ ARSENAŁ",
+      "id": "A15"
+    },
+    {
+      "name": "DWORZEC GDAŃSKI",
+      "id": "A17"
+    },
+    {
+      "name": "PLAC WILSONA",
+      "id": "A18"
+    },
+    {
+      "name": "MARYMONT",
+      "id": "A19"
+    },
+    {
+      "name": "SŁODOWIEC",
+      "id": "A20"
+    },
+    {
+      "name": "STARE BIELANY",
+      "id": "A21"
+    },
+    {
+      "name": "WAWRZYSZEW",
+      "id": "A22"
+    },
+    {
+      "name": "MŁOCINY",
+      "id": "A23"
+    }
+  ]
+}
