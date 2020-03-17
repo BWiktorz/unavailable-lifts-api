@@ -13,5 +13,8 @@
     "jade": "~1.11.0",
     "lifts-module": "file:src",
     "morgan": "~1.9.1"
+  },
+  "engines": {
+    "node": "10.10.0"
   }
 }
