@@ -11,20 +11,24 @@ var station_data = __importStar(require("./station-id.json"));
 var lift_data = __importStar(require("./lifts.json"));
 var lift = /** @class */ (function () {
     function lift(m) {
-        var _station_id = station_data.stations.find(function (station) { return station.name === m[1]; }).id;
+        var _station_name = m[1];
+        var _lift_name = m[2].replace('.', '');
+        var _from_floor = Math.abs(parseInt(m[3]));
+        var _to_floor = Math.abs(parseInt(m[4]));
+        var _station_id = station_data.stations.find(function (station) { return station.name === _station_name; }).id;
         var _lift_id = lift_data.features.find(function (feat) {
             return feat.properties.station === _station_id &&
-                feat.properties.name === m[2].replace('.', '') &&
-                feat.properties.levelb === Math.abs(parseInt(m[3])) &&
-                feat.properties.levela === Math.abs(parseInt(m[4]));
+                feat.properties.name === _lift_name &&
+                feat.properties.levelb === _from_floor &&
+                feat.properties.levela === _to_floor;
         }).properties.id;
         this.data = {
-            station_name: m[1],
+            station_name: _station_name,
             station_id: _station_id,
-            lift_name: m[2],
+            lift_name: _lift_name,
             lift_id: _lift_id,
-            from_floor: m[3],
-            to_floor: m[4]
+            from_floor: _from_floor,
+            to_floor: _to_floor
         };
     }
     return lift;
